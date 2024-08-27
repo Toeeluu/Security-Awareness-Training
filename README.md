@@ -17,15 +17,15 @@ This project involved developing and delivering a comprehensive security awarene
 
 <p align="center">
 Students at CedarHall Academy: <br/>
-<img src="["](https://imgur.com/undefined) height="80%" width="80%" alt="Students at CedraHall Academy"/>
+<img src="["](https://imgur.com/undefined)](https://imgur.com/undefined) height="80%" width="80%" alt="Students at CedraHall Academy"/>
 <br />
 <br />
 Students at CedarHall Academy:  <br/>
 <img src="["](https://imgur.com/undefined) height="80%" width="80%" alt="Students at CedarHall Academy"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png](https://imgur.com/undefined)" height="80%" width="80%" alt="my team and students of CedarHall Academy"/>
+
+<img src="[(https://imgur.com/undefined)]" height="80%" width="80%" alt="my team and students of CedarHall Academy"/>
 <br />
 <br />
 
